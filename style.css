@@ -276,7 +276,7 @@ margin-bottom: -5px;
 .first-slider {
     min-height: 800px;
     
-    background-image: url('../Basic\ banking\ system/banking.jpg'); opacity:1;
+    background-image: url('banking.jpg'); opacity:1;
     background-size: cover;
 }
 .our-header h2{
