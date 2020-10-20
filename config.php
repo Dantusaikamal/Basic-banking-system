@@ -1,8 +1,8 @@
 <?php
-	$servername = 'localhost';
-	$user = 'sai';
-	$pass = '2935';
-	$dbname = 'banktsf';
+	$servername = 'vrk7xcrab1wsx4r1.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+	$user = 'wdfa08zvh6lz2hoj';
+	$pass = 'zudcu35z3zeb5puz';
+	$dbname = 'r0yol1itzflzm42x';
 
 	$conn = mysqli_connect($servername,$user,$pass,$dbname);
 
